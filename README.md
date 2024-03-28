@@ -1,6 +1,6 @@
 # PaymentClientRl
 
-**TODO: Add description**
+This Leaky Bucket algorithm implementation is based on [Alex Koutmos](https://akoutmos.com/post/rate-limiting-with-genservers/#step-3-implementing-a-leaky-bucket-rate-limiter---a-hrefhttpsgithubcomakoutmospayments_clientcommit401572149ab6e39ae9a080d78f1ab300340708d0-target_blankcommita) article about rate limiter types
 
 ## Installation
 
